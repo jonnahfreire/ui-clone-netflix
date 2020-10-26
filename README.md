@@ -1,10 +1,12 @@
-# Clone ui for study react
+# UI-Clone React
 
-by https://www.youtube.com/watch?v=tBweoUiMsDg
+Project objective: Study
 
-data from https://api.themoviedb.org/3
+Created in Live by https://www.youtube.com/watch?v=tBweoUiMsDg
 
-## Get your API_KEY and config in Tmdb API_KEY
+Get data from https://api.themoviedb.org/3
 
-## imgs
+## Get your API_KEY in [TMDB](https://www.themoviedb.org/documentation/api) and config in Tmdb.js API_KEY
+
+## images
 ![Screenshot_1](/imgs/Screenshot_1.jpg "Screenshot_1")![Screenshot_2](/imgs/Screenshot_2.jpg "Screenshot_2")![Screenshot_3](/imgs/Screenshot_1.jpg "Screenshot_3")
