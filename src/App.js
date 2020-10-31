@@ -72,7 +72,3 @@ export default () =>{
     </div>
   )
 }
-
-
-
-// https://youtu.be/tBweoUiMsDg?t=8054
