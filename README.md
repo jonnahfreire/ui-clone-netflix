@@ -2,8 +2,6 @@
 
 Project objective: Study
 
-Created in Live by https://www.youtube.com/watch?v=tBweoUiMsDg
-
 Get data from https://api.themoviedb.org/3
 
 ## Get your API_KEY in [TMDB](https://www.themoviedb.org/documentation/api) and config in Tmdb.js API_KEY
